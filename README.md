@@ -2,7 +2,7 @@
 Visually understanding Crime Rate Patterns in LA
 ## Dataset Overview and Structure
 
-The dataset titled "Crime Data from 2020 to Present" reflects incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports and contains a total of 757,141 observations up to July 10, 2023[3]. The dataset is updated weekly and is publicly accessible[5].
+The dataset titled "Crime Data from 2020 to Present" reflects incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports and contains a total of 800,000+ observations up to July 10, 2023[3]. The dataset is updated weekly and is publicly accessible[5].
 
 Each row in the dataset corresponds to a particular crime incident. The dataset contains 28 attributes, including a four-digit code that represents a sub-area within a Geographic Area (Rpt Dist No), an indicator of the crime committed (Crm Cd), and the street address of the crime incident rounded to the nearest hundred block to maintain anonymity (LOCATION)[13].
 
